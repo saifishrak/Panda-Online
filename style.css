@@ -1,7 +1,3 @@
-.car-bg {
-    background-color: #fcecea;
-}
-
 .buy-now {
     background-color: #d63384;
     color: white;
@@ -15,4 +11,33 @@
 
 .row {
     padding: 30px;
+}
+
+.cat-1,
+.cat-2,
+.cat-3 {
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+}
+
+.cat-1 {
+    background-color: yellow;
+}
+
+.cat-2 {
+    background-color: tomato;
+}
+
+.cat-3 {
+    background-color: slateblue;
+}
+
+.catagories {
+    margin-top: 50px;
+}
+
+.car {
+    height: 500px;
+    background-color: #fcecea;
 }
