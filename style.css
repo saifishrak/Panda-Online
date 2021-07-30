@@ -1,43 +1,15 @@
-.buy-now {
-    background-color: #d63384;
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.panda-btn-buy-now {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
     color: white;
-    padding: 10px 25px;
-    border-radius: 10px;
-}
-
-.price-tag {
-    color: #d63384;
-}
-
-.row {
-    padding: 30px;
-}
-
-.cat-1,
-.cat-2,
-.cat-3 {
-    padding: 10px 20px;
-    border-radius: 15px;
-    color: white;
-}
-
-.cat-1 {
-    background-color: yellow;
-}
-
-.cat-2 {
-    background-color: tomato;
-}
-
-.cat-3 {
-    background-color: slateblue;
-}
-
-.catagories {
-    margin-top: 50px;
-}
-
-.car {
-    height: 500px;
-    background-color: #fcecea;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
 }
